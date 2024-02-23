@@ -15,8 +15,7 @@ This repository contains a series of Jupyter notebook files covering various top
 
 - **additional_tasks_bazovi_tipi_danix_cikli.ipynb:** The notebook demonstrates Python operations for data analysis, including variable conversions, statistical calculations, and hypothesis testing. It also counts letters in words, checks for palindromes, and calculates the remaining years until age 100 for a list of users. Overall, it covers fundamental and advanced Python operations for data analysis and manipulation.
 
-- **functions_list_comprehensions_classes.ipynb:** Functions, list comprehensions, and classes in Python are addressed here, along with practical examples.
+- **functions_list_comprehensions_classes.ipynb:** In this notebook, data processing and object modeling operations were performed in Python. Used functions, loops, and classes to manipulate lists, calculate areas and perimeters of circles, and manage student information, including extension.
 
-- **pandas_additional.ipynb:** This notebook provides additional exercises to practice using the Pandas library for data analysis.
-
-- **python_data_structures_loops_and_functions.ipynb:** It covers data structures, loops, and functions in Python, with practical examples and exercises.
+- **pandas_additional.ipynb:** In the notebook, I used Pandas to load and clean a CSV dataset. Performed transformations on columns, such as changing the date format and converting data to numeric. Next, I performed exploratory analysis, including exploring unique values ​​and identifying the top 10 in text columns. I calculated the median salary based on English proficiency and explored the salary-job title relationship. I also analyzed salary distribution in major cities and grouped salary by experience and job position. Finally, I summarized the actions taken and the conclusions obtained from the analysis.
+- **python_data_structures_loops_and_functions.ipynb:** The code performs various operations in Python, including manipulating data in lists and dictionaries, defining functions to print patterns, and analyzing elements in sets.

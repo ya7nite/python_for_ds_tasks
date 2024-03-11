@@ -3,7 +3,7 @@
 This repository contains a series of Jupyter notebook files covering various topics related to Python and data analysis. Each notebook addresses a specific topic and contains exercises, explanations, and practical examples to help users understand and practice different concepts.
 
 ## Contents:
--**International_Grocery_Store_Analytics.ipynb:** The repository that represents my final course work.
+- **International_Grocery_Store_Analytics.ipynb:** The repository that represents my final course work.
 
 - **12_python_loops_1.ipynb:** This notebook presents a series of tasks related to Python and loops. The tasks range from basic operations with lists to creating dictionaries from lists and manipulating unique elements. For operations such as multiplying elements of a list, comparing elements between two lists, and counting repetitions of elements in a list, for loops are used. It also demonstrates how to check for the presence of elements in a list and how to find the smallest unique elements. Solutions are presented both with conventional loops and with list and dictionary comprehensions.
 
